@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "何様 feat. ぼくのりりっくのぼうよみ",
+  "base_artist": "SKY-HI",
+  "createdAt": "2026-03-27T04:15:27.662148Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "何様 feat. ぼくのりりっくのぼうよみ",
+      "artist": "SKY-HI",
+      "has_synced": true,
+      "path": "select/01_何様_feat._ぼくのりりっくのぼうよみ_SKY-HI.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "何様 feat. たなか - From THE FIRST TAKE",
+      "artist": "SKY-HI",
+      "has_synced": true,
+      "path": "select/02_何様_feat._たなか_-_From_THE_FIRST_TAKE_SKY-HI.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "何様 (feat. たなか) (From THE FIRST TAKE)",
+      "artist": "SKY-HI",
+      "has_synced": true,
+      "path": "select/03_何様_(feat._たなか)_(From_THE_FIRST_TAKE)_SKY-HI.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "何様",
+      "artist": "SKY-HI, Boku no Lyric no Boyomi",
+      "has_synced": false,
+      "path": "select/pl_01_何様_SKY-HI,_Boku_no_Lyric_no_Boyomi.txt"
+    }
+  ]
+}
